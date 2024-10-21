@@ -1,0 +1,11 @@
+{
+    "mandatorySuffix": "PTE",
+    "supportedCountries": [
+        "DK"
+    ],
+    "name": "ALProject2",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "baselinePackageCachePath": "./AppSourceCop",
+    "targetVersion": "24.0"
+}

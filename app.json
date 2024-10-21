@@ -1,0 +1,35 @@
+{
+  "id": "49015d92-f1c2-4840-a57a-af62d42a5ace",
+  "name": "ALProject2",
+  "publisher": "Default Publisher",
+  "version": "1.2.0.0",
+  "brief": "Some brief",
+  "description": "Some description",
+  "privacyStatement": "https://www.example.com/privacy",
+  "EULA": "https://www.example.com/eula",
+  "help": "https://www.example.com/help",
+  "url": "https://www.example.com",
+  "contextSensitiveHelpUrl": "https://www.example.com/contextHelp",
+  "logo": "logo.png",
+  "dependencies": [],
+  "applicationInsightsConnectionString": "InstrumentationKey=00000000-0000-0000-0000-000000000000",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
